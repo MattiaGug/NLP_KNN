@@ -85,7 +85,8 @@
 * [![R][R.org]][R-url]
 * [![Julia][Julia.org]][Julia-url]
 * [![Vue.js][Vue.js]][Vue-url]
-<img alt="Static Badge" src="https://img.shields.io/badge/pykan-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FKindXiaoming%2Fpykan">
+* ![Static Badge](https://img.shields.io/badge/pykan-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FKindXiaoming%2Fpykan)
+
 
 
 
