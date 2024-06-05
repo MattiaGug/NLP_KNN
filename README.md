@@ -1,4 +1,4 @@
-# NLP_KNN
+# KAN network for NLP tasks
 
 <a name="readme-top"></a>
 
@@ -155,15 +155,15 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Mattia Gugole - [@twitter_handle](https://twitter.com/twitter_handle) - mattia.gugole@icloud.com
+Mattia Gugole - mattia.gugole@studenti.unipd.com
 <br>
-Mattia Roccatello - [@twitter_handle](https://twitter.com/twitter_handle) - tommaso.piraldi@gmail.com
+Mattia Roccatello - mattia.roccatello@studenti.unipd.com
 <br>
-Devis Marzola - [@twitter_handle](https://twitter.com/twitter_handle) - tommaso.piraldi@gmail.com
+Devis Marzola - devis.marzola@gmail.com
 <br>
-Lisa Milan - [@twitter_handle](https://twitter.com/twitter_handle) - tommaso.piraldi@gmail.com
+Lisa Milan - - lisa.milan1i@gmail.com
 <br>
-Aysenur Oya Ozen - [@twitter_handle](https://twitter.com/twitter_handle) - tommaso.piraldi@gmail.com
+Aysenur Oya Ozen  - tommaso.piraldi@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/MattiaGug/shared-repo.svg?style=for-the-badge
