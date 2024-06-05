@@ -26,7 +26,7 @@
     <a href="https://arxiv.org/abs/2404.19756"><strong>Explore the KAN paper »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Mattgugo/shared-repo">View Demo</a>
+    <a href="https://github.com/KindXiaoming/pykan/tree/master/tutorials">View Demo</a>
     ·
     <a href="https://github.com/MattiaGug/nlp-KAN/issues">Report Bug</a>
     ·
