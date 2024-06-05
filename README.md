@@ -162,7 +162,7 @@ Lisa Milan - - lisa.milan1@studenti.unipd.com
 <br>
 Devis Marzola - devis.marzola@studenti.unipd.com
 <br>
-Aysenur Oya Ozen  - tommaso.piraldi@gmail.com
+Aysenur Oya Ozen  - aysenuroya.ozen@studenti.unipd.it
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/MattiaGug/nlp-KAN.svg?style=for-the-badge
