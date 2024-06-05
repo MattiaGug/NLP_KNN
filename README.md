@@ -165,16 +165,16 @@ Devis Marzola - devis.marzola@studenti.unipd.com
 Aysenur Oya Ozen  - tommaso.piraldi@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/MattiaGug/shared-repo.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/MattiaGug/nlp-KAN.svg?style=for-the-badge
 [contributors-url]: https://github.com/MattiaGug/nlp-KAN/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/MattiaGug/shared-repo.svg?style=for-the-badge
-[forks-url]: https://github.com/MattiaGug/shared-repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/MattiaGug/shared-repo.svg?style=for-the-badge
-[stars-url]: https://github.com/MattiaGug/shared-repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/MattiaGug/shared-repo.svg?style=for-the-badge
-[issues-url]: https://github.com/MattiaGug/shared-repo/issues
-[license-shield]: https://img.shields.io/github/license/MattiaGug/shared-repo.svg?style=for-the-badge
-[license-url]: https://github.com/MattiaGug/shared-repo/blob/master/LICENSE.txt
+[forks-shield]: https://img.shields.io/github/forks/MattiaGug/nlp-KAN.svg?style=for-the-badge
+[forks-url]: https://github.com/MattiaGug/nlp-KAN/network/members
+[stars-shield]: https://img.shields.io/github/stars/MattiaGug/nlp-KAN.svg?style=for-the-badge
+[stars-url]: https://github.com/MattiaGug/nlp-KAN/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MattiaGug/nlp-KAN.svg?style=for-the-badge
+[issues-url]: https://github.com/MattiaGug/nlp-KAN/issues
+[license-shield]: https://img.shields.io/github/license/MattiaGug/nlp-KAN.svg?style=for-the-badge
+[license-url]: https://github.com/MattiaGug/nlp-KAN/blob/master/LICENSE.txt
 [Python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
 [pykan-shield]: https://img.shields.io/badge/pykan-blue?style=for-the-badge
