@@ -158,9 +158,9 @@ Mattia Gugole - mattia.gugole@studenti.unipd.com
 <br>
 Mattia Roccatello - mattia.roccatello@studenti.unipd.com
 <br>
-Devis Marzola - devis.marzola@gmail.com
-<br>
 Lisa Milan - - lisa.milan1@studenti.unipd.com
+<br>
+Devis Marzola - devis.marzola@studenti.unipd.com
 <br>
 Aysenur Oya Ozen  - tommaso.piraldi@gmail.com
 
