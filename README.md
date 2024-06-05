@@ -68,7 +68,7 @@
 
 ## Important Notice
 
-AGGIUNGi
+This repo was built in order to provide a stable access to UNIPD professors and evaluate our work for the succesful completation of the Natural Language Process exam (6cfu - First call June 2024).
 
 
 ## Installation
