@@ -14,7 +14,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/Mattgugo/shared-repo">
+  <a href="https://github.com/Mattgugo/nlp-KAN">
     <img src="https://github.com/MattiaGug/NLP_KNN/blob/c3f6dbd2e80267db2366506483b8ea57284b9c9d/Logo_Universita%CC%80_Padova.png" width="300" height="300">
   </a>
 
@@ -28,9 +28,9 @@
     <br />
     <a href="https://github.com/Mattgugo/shared-repo">View Demo</a>
     ·
-    <a href="https://github.com/MattiaGug/shared-repo/issues">Report Bug</a>
+    <a href="https://github.com/MattiaGug/nlp-KAN/issues">Report Bug</a>
     ·
-    <a href="https://github.com/MattiaGug/shared-repo/issues">Request Feature</a>
+    <a href="https://github.com/MattiaGug/nlp-KAN/issues">Request Feature</a>
   </p>
 </div>
 
@@ -166,7 +166,7 @@ Aysenur Oya Ozen  - tommaso.piraldi@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/MattiaGug/shared-repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/MattiaGug/shared-repo/graphs/contributors
+[contributors-url]: https://github.com/MattiaGug/nlp-KAN/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/MattiaGug/shared-repo.svg?style=for-the-badge
 [forks-url]: https://github.com/MattiaGug/shared-repo/network/members
 [stars-shield]: https://img.shields.io/github/stars/MattiaGug/shared-repo.svg?style=for-the-badge
