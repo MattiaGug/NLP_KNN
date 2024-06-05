@@ -85,6 +85,7 @@
 * [![R][R.org]][R-url]
 * [![Julia][Julia.org]][Julia-url]
 * [![Vue.js][Vue.js]][Vue-url]
+* [![pykan][pykan-url]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -167,6 +168,9 @@ Aysenur Oya Ozen - [@twitter_handle](https://twitter.com/twitter_handle) - tomma
 [Vue-url]: https://vuejs.org/
 [Python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
+[pykan]: https://img.shields.io/badge/pykan-blue?style=for-the-badge
+[pykan-url]: https%3A%2F%2Fgithub.com%2FKindXiaoming%2Fpykan
+
 [R.org]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
 [R-url]: https://www.r-project.org/
 [Julia.org]: https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white
