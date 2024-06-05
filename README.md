@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Mattgugo/shared-repo">
-    <img src="https://github.com/MattiaGug/shared-repo/blob/main/taco%20bros.png?raw=true" width="300" 
+    <img src="[Logo_Università_Padova.png](https://github.com/MattiaGug/NLP_KNN/blob/c3f6dbd2e80267db2366506483b8ea57284b9c9d/Logo_Universita%CC%80_Padova.png)" width="300" 
      height="300">
   </a>
 
