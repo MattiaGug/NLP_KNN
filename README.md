@@ -8,8 +8,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url1]
-[![LinkedIn][linkedin-shield]][linkedin-url2]
+
   
 </div>
 
@@ -176,9 +175,6 @@ Aysenur Oya Ozen  - tommaso.piraldi@gmail.com
 [issues-url]: https://github.com/MattiaGug/shared-repo/issues
 [license-shield]: https://img.shields.io/github/license/MattiaGug/shared-repo.svg?style=for-the-badge
 [license-url]: https://github.com/MattiaGug/shared-repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url1]: https://linkedin.com/in/mattia-gugole
-[linkedin-url2]: https://linkedin.com/in/mattia-gugole
 [Python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
 [pykan-shield]: https://img.shields.io/badge/pykan-blue?style=for-the-badge
