@@ -71,6 +71,67 @@
 
 AGGIUNGi
 
+
+## Installation
+Pykan can be installed via PyPI or directly from GitHub. 
+
+**Pre-requisites:**
+
+```
+Python 3.9.7 or higher
+pip
+```
+
+**Installation via github**
+
+```
+python -m venv pykan-env
+source pykan-env/bin/activate  # On Windows use `pykan-env\Scripts\activate`
+pip install git+https://github.com/KindXiaoming/pykan.git
+```
+
+**Installation via PyPI:**
+```
+python -m venv pykan-env
+source pykan-env/bin/activate  # On Windows use `pykan-env\Scripts\activate`
+pip install pykan
+```
+Requirements
+
+```python
+# python==3.9.7
+matplotlib==3.6.2
+numpy==1.24.4
+scikit_learn==1.1.3
+setuptools==65.5.0
+sympy==1.11.1
+torch==2.2.2
+tqdm==4.66.2
+```
+
+After activating the virtual environment, you can install specific package requirements as follows:
+```python
+pip install -r requirements.txt
+```
+
+**Optional: Conda Environment Setup**
+For those who prefer using Conda:
+```
+conda create --name pykan-env python=3.9.7
+conda activate pykan-env
+pip install git+https://github.com/KindXiaoming/pykan.git  # For GitHub installation
+# or
+pip install pykan  # For PyPI installation
+```
+
+## Computation requirements
+
+Examples in [tutorials](tutorials) are runnable on a single CPU typically less than 10 minutes. All examples in the paper are runnable on a single CPU in less than one day. Training KANs for PDE is the most expensive and may take hours to days on a single CPU. We use CPUs to train our models because we carried out parameter sweeps (both for MLPs and KANs) to obtain Pareto Frontiers. There are thousands of small models which is why we use CPUs rather than GPUs. Admittedly, our problem scales are smaller than typical machine learning tasks, but are typical for science-related tasks. In case the scale of your task is large, it is advisable to use GPUs.
+
+## Documentation
+The documentation can be found [here](https://kindxiaoming.github.io/pykan/).
+
+
 ## Project Roadmap
 
 - [ ] Feature 1
