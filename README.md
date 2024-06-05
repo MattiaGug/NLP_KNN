@@ -23,7 +23,7 @@
   <p align="center">
     Course: Natural Processing Language
     <br />
-    <a href="https://github.com/MattiaGug/shared-repo"><strong>Explore the docs »</strong></a>
+    <a href="https://arxiv.org/abs/2404.19756"><strong>Explore the KAN paper »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Mattgugo/shared-repo">View Demo</a>
@@ -160,7 +160,7 @@ Mattia Roccatello - mattia.roccatello@studenti.unipd.com
 <br>
 Devis Marzola - devis.marzola@gmail.com
 <br>
-Lisa Milan - - lisa.milan1i@gmail.com
+Lisa Milan - - lisa.milan1@studenti.unipd.com
 <br>
 Aysenur Oya Ozen  - tommaso.piraldi@gmail.com
 
