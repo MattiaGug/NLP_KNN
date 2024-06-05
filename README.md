@@ -33,10 +33,10 @@
      height="300">
   </a>
 
-<h3 align="center">Taco Bros Shared Repo</h3>
+<h3 align="center">Kolmogorov-Arnold Networks application to NLP</h3>
 
   <p align="center">
-    A shared report for two friends with common interests
+    Course: Natural Processing Language
     <br />
     <a href="https://github.com/MattiaGug/shared-repo"><strong>Explore the docs »</strong></a>
     <br />
