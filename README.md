@@ -82,10 +82,8 @@
 ### In this Repo the projects and documentation will concern: 
 
 * [![Python][Python.org]][Python-url]
-* [![R][R.org]][R-url]
-* [![Julia][Julia.org]][Julia-url]
-* [![Vue.js][Vue.js]][Vue-url]
-* ![Static Badge](https://img.shields.io/badge/pykan-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FKindXiaoming%2Fpykan)
+* <img alt="Static Badge" src="https://img.shields.io/badge/pykan-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FKindXiaoming%2Fpykan">
+
 
 
 
