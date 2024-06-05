@@ -71,57 +71,18 @@
 
 AGGIUNGi
 
-## Project Roadmap
+## Installation
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+Pykan can be installed via PyPI or directly from GitHub.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Pre-requisites:
 
-## Contributing
+Python 3.9.7 or higher
+pip
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+### Installation via GitHub
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Contact
-
-Mattia Gugole - [@twitter_handle](https://twitter.com/twitter_handle) - mattia.gugole@icloud.com
-<br>
-Mattia Roccatello - [@twitter_handle](https://twitter.com/twitter_handle) - tommaso.piraldi@gmail.com
-<br>
-Devis Marzola - [@twitter_handle](https://twitter.com/twitter_handle) - tommaso.piraldi@gmail.com
-<br>
-Lisa Milan - [@twitter_handle](https://twitter.com/twitter_handle) - tommaso.piraldi@gmail.com
-<br>
-Aysenur Oya Ozen - [@twitter_handle](https://twitter.com/twitter_handle) - tommaso.piraldi@gmail.com
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/MattiaGug/shared-repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/MattiaGug/shared-repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/MattiaGug/shared-repo.svg?style=for-the-badge
-[forks-url]: https://github.com/MattiaGug/shared-repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/MattiaGug/shared-repo.svg?style=for-the-badge
-[stars-url]: https://github.com/MattiaGug/shared-repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/MattiaGug/shared-repo.svg?style=for-the-badge
-[issues-url]: https://github.com/MattiaGug/shared-repo/issues
-[license-shield]: https://img.shields.io/github/license/MattiaGug/shared-repo.svg?style=for-the-badge
-[license-url]: https://github.com/MattiaGug/shared-repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url1]: https://linkedin.com/in/mattia-gugole
-[linkedin-url2]: https://linkedin.com/in/mattia-gugole
-[Python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[Python-url]: https://www.python.org/
-[pykan-shield]: https://img.shields.io/badge/pykan-blue?style=for-the-badge
-[pykan-url]: https://github.com/KindXiaoming/pykan
+```sh
+python -m venv pykan-env
+source pykan-env/bin/activate  # On Windows use `pykan-env\Scripts\activate`
+pip install git+https://github.com/KindXiaoming/pykan.git
