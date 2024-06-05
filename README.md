@@ -1,18 +1,8 @@
 # NLP_KNN
 
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-<div align = "center">
+<div align="center">
   
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -23,14 +13,10 @@
   
 </div>
 
-
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/Mattgugo/shared-repo">
-    <img src="https://github.com/MattiaGug/NLP_KNN/blob/c3f6dbd2e80267db2366506483b8ea57284b9c9d/Logo_Universita%CC%80_Padova.png" width="300" 
-     height="300">
+    <img src="https://github.com/MattiaGug/NLP_KNN/blob/c3f6dbd2e80267db2366506483b8ea57284b9c9d/Logo_Universita%CC%80_Padova.png" width="300" height="300">
   </a>
 
 <h3 align="center">Kolmogorov-Arnold Networks application to NLP</h3>
@@ -49,9 +35,6 @@
   </p>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -77,45 +60,26 @@
   </ol>
 </details>
 
-
-
 ### In this Repo the projects and documentation will concern: 
 
 * [![Python][Python.org]][Python-url]
-* <object alt="Static Badge" src="https://img.shields.io/badge/pykan-blue?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2FKindXiaoming%2Fpykan">
-
-
-
-
-
+* [![PyKAN][pykan-shield]][pykan-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
 ## Important Notice
 
 AGGIUNGi
 
-
-<!-- ROADMAP -->
 ## Project Roadmap
 
 - [ ] Feature 1
 - [ ] Feature 2
 - [ ] Feature 3
     - [ ] Nested Feature
-    
-
-    
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -131,10 +95,6 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-
-<!-- CONTACT -->
 ## Contact
 
 Mattia Gugole - [@twitter_handle](https://twitter.com/twitter_handle) - mattia.gugole@icloud.com
@@ -147,10 +107,7 @@ Lisa Milan - [@twitter_handle](https://twitter.com/twitter_handle) - tommaso.pir
 <br>
 Aysenur Oya Ozen - [@twitter_handle](https://twitter.com/twitter_handle) - tommaso.piraldi@gmail.com
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/MattiaGug/shared-repo.svg?style=for-the-badge
 [contributors-url]: https://github.com/MattiaGug/shared-repo/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/MattiaGug/shared-repo.svg?style=for-the-badge
@@ -158,21 +115,13 @@ Aysenur Oya Ozen - [@twitter_handle](https://twitter.com/twitter_handle) - tomma
 [stars-shield]: https://img.shields.io/github/stars/MattiaGug/shared-repo.svg?style=for-the-badge
 [stars-url]: https://github.com/MattiaGug/shared-repo/stargazers
 [issues-shield]: https://img.shields.io/github/issues/MattiaGug/shared-repo.svg?style=for-the-badge
-[issues-url]: https://github.com/MattiaGug/shared-repo.git/issues
+[issues-url]: https://github.com/MattiaGug/shared-repo/issues
 [license-shield]: https://img.shields.io/github/license/MattiaGug/shared-repo.svg?style=for-the-badge
 [license-url]: https://github.com/MattiaGug/shared-repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url1]: https://linkedin.com/in/mattia-gugole
 [linkedin-url2]: https://linkedin.com/in/mattia-gugole
-[product-screenshot]: images/screenshot.png
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
 [Python.org]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 [Python-url]: https://www.python.org/
-[pykan]: https://img.shields.io/badge/pykan-blue?style=for-the-badge
-[pykan-url]: https%3A%2F%2Fgithub.com%2FKindXiaoming%2Fpykan
-
-[R.org]: https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
-[R-url]: https://www.r-project.org/
-[Julia.org]: https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white
-[Julia-url]: https://julialang.org/
+[pykan-shield]: https://img.shields.io/badge/pykan-blue?style=for-the-badge
+[pykan-url]: https://github.com/KindXiaoming/pykan
